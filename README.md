@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
