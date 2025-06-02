@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/heeyeonkoo99/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
