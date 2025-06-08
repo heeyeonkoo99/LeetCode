@@ -12,11 +12,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/heeyeonkoo99/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/heeyeonkoo99/LeetCode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
