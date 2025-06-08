@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/heeyeonkoo99/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/heeyeonkoo99/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/heeyeonkoo99/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
