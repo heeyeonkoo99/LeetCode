@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/heeyeonkoo99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/heeyeonkoo99/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/heeyeonkoo99/LeetCode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/heeyeonkoo99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
 |  |
 | ------- |
