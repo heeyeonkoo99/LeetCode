@@ -6,11 +6,10 @@ class Solution:
             if i in stack.values():
                 temp.append(i)
             else:
-                if temp and stack[i]==temp[-1]:
+                if not temp:
+                    return False
+                if temp and temp[-1] ==stack[i]: # i랑 temp[-1] 간의 관계를 잘 정립해야함! 조건을 잘게 쪼개자
                     temp.pop()
                 else:
                     return False
-        if len(temp)==0:
-            return True
-        return False
-
+        return len(temp)==0
