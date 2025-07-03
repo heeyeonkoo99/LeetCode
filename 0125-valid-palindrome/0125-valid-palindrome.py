@@ -1,6 +1,11 @@
+import re
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        updated_s=''.join(re.findall("[0-9a-z]",s.lower()))
-        reversed_s=updated_s[::-1]
-    
-        return updated_s==reversed_s
+        #re모듈을 사용해야함
+        s=s.lower()
+        strs=[]
+        for char in s:
+            if char.isalnum():
+                strs.append(char)
+        return strs[::]==strs[::-1]
+        
