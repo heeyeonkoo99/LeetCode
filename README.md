@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/heeyeonkoo99/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/heeyeonkoo99/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/heeyeonkoo99/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
