@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heeyeonkoo99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/heeyeonkoo99/LeetCode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
 ## Tree
 |  |
 | ------- |
