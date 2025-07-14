@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/heeyeonkoo99/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/heeyeonkoo99/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
 ## Tree
 |  |
@@ -199,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/heeyeonkoo99/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
