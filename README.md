@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/heeyeonkoo99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/heeyeonkoo99/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
 | ------- |
