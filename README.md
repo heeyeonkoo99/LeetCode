@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heeyeonkoo99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/heeyeonkoo99/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/heeyeonkoo99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
