@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heeyeonkoo99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/heeyeonkoo99/LeetCode/tree/master/0070-climbing-stairs) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/heeyeonkoo99/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/heeyeonkoo99/LeetCode/tree/master/0191-number-of-1-bits) |
