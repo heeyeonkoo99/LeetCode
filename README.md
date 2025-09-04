@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
+| [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/heeyeonkoo99/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/heeyeonkoo99/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/heeyeonkoo99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/heeyeonkoo99/LeetCode/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/heeyeonkoo99/LeetCode/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Breadth-First Search
 |  |
 | ------- |
