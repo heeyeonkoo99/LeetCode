@@ -1,19 +1,18 @@
+import collections
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-from collections import deque
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        q=deque()
-
-        if not head:
-            return True
-        while head is not None:
-            q.append(head.val)
+        temp=collections.deque()
+        while head.next is not None:
+            temp.append(head.val)
             head=head.next
-        while len(q)>1:
-            if q.popleft()!=q.pop():
+        temp.append(head.val)
+        while len(temp)>1:
+            if temp.pop()!=temp.popleft():
                 return False
-        return True    
+        return True
+        
