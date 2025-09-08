@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heeyeonkoo99/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/heeyeonkoo99/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/heeyeonkoo99/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/heeyeonkoo99/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/heeyeonkoo99/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/heeyeonkoo99/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/heeyeonkoo99/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/heeyeonkoo99/LeetCode/tree/master/1036-rotting-oranges) |
 ## Database
@@ -257,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
 ## Binary Search Tree
 |  |
 | ------- |
