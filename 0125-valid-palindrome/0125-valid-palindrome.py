@@ -1,11 +1,9 @@
-import re
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        #re모듈을 사용해야함
-        s=s.lower()
-        strs=[]
-        for char in s:
-            if char.isalnum():
-                strs.append(char)
-        return strs[::]==strs[::-1]
+        temp = []
+        for i in s:
+            if i.isalnum():  # 숫자도 포함하려면 isalnum
+                temp.append(i.lower())
         
+        temp = "".join(temp)
+        return temp == temp[::-1]
