@@ -1,9 +1,21 @@
-from collections import Counter
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        a=Counter(s)
-        b=Counter(t)
-        if a==b:
-            return True
-        return False
+        dict={}
+   
+        for i in s:
+            if i not in dict:
+                dict[i]=1
+            else:
+                dict[i]+=1
+
+        for i in t:
+            if i in dict and dict[i]!=0:
+                dict[i]-=1
+
+            else:
+                return False
+        return sum(dict.values())==0
+    
+
         
