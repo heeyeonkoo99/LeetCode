@@ -1,18 +1,17 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        
-        roman2value={'M':1000,'CM':900,'D':500,'CD':400,'C':100,'XC':90,'L':50,'XL':40,'X':10,'IX':9,'V':5,'IV':4,'I':1}
-            
-        value=0
-        cursor=0
-        while cursor<len(s):
-            if (cursor+1)!=len(s) and s[cursor]+s[cursor+1] in roman2value:  # Check current character and next character
-                value+=roman2value[s[cursor]+s[cursor+1]]
-                cursor+=2
+        d={"I":1, "V":5, "X":10, "L":50,"C":100,"D":500,"M":1000, 
+        "IV":4,"IX":9,"XL":40,"XC":90,"CD":400,"CM":900}
+        result=0
+        i=0
+        while i<len(s):
+            if s[i:i+2] in d:
+                result+=d[s[i:i+2]]
+                i+=2
             else:
-                value+=roman2value[s[cursor]]
-                cursor+=1
-                
-            
+                result+=d[s[i]]
+                i+=1
+        return result
+
+
         
-        return value
