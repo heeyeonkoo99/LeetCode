@@ -1,11 +1,7 @@
-import collections
+from collections import Counter
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        answer=0
-        collect={} 
-        collect=collections.Counter(nums)
-        print("collect",collect)
-        for key in collect.keys():
-            if collect[key]<=1:
-                return key
-   
+        d=Counter(nums)
+        for i in d.items():
+            if i[1]==1:
+                return i[0]
