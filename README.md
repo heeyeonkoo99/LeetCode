@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/heeyeonkoo99/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/heeyeonkoo99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/heeyeonkoo99/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
@@ -363,4 +364,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heeyeonkoo99/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/heeyeonkoo99/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
