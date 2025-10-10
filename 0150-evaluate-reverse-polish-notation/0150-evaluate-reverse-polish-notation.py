@@ -1,22 +1,24 @@
+from typing import List
+
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        stack = []
         operations = {"+", "-", "*", "/"}
-        for c in tokens:
-            # if c.isnumeric():
-            if c not in operations:
-                stack.append(int(c))
-
+        stack = []
+        
+        for token in tokens:
+            if token not in operations:
+                stack.append(int(token))  # 숫자를 바로 int로 저장
             else:
                 b = stack.pop()
                 a = stack.pop()
-
-                if c == "+":
+                
+                if token == "+":
                     stack.append(a + b)
-                elif c == "-":
+                elif token == "-":
                     stack.append(a - b)
-                elif c == "*":
+                elif token == "*":
                     stack.append(a * b)
-                elif c == "/":
-                    stack.append(math.trunc(a/b))
+                else:  # "/"
+                    stack.append(int(a / b))  # trunc towards zero
+        
         return stack[-1]
