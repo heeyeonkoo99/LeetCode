@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/heeyeonkoo99/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/heeyeonkoo99/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/heeyeonkoo99/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0054-spiral-matrix) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/heeyeonkoo99/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
 ## Binary Search Tree
 |  |
