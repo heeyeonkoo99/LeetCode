@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/heeyeonkoo99/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Trie
 |  |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/heeyeonkoo99/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -293,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
@@ -320,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/heeyeonkoo99/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/heeyeonkoo99/LeetCode/tree/master/1036-rotting-oranges) |
 ## Greedy
@@ -368,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/heeyeonkoo99/LeetCode/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 ## Geometry
 |  |
 | ------- |
