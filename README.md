@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
+| [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/heeyeonkoo99/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Tree
 |  |
 | ------- |
@@ -357,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/heeyeonkoo99/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Hash Function
 |  |
 | ------- |
