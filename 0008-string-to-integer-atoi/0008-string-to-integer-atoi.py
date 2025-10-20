@@ -1,24 +1,29 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        MAX_INT=2**31-1
-        MIN_INT=-2**31
-        negative=1
-        res=0
-        i=0
+        s=s.strip()
+        if not s:
+            return 0
 
-        while i<len(s) and s[i]==" ":
+        res,sign, i=0,1,0
+
+        if s[0]=="-":
+            sign=-1
             i+=1
-        if i<len(s) and s[i]=="-":
-            negative=-1
+        elif s[0]=="+":
             i+=1
-        elif i<len(s) and s[i]=="+":
-            i+=1
-        numbers=set("0123456789")
-        while i<len(s) and s[i] in numbers:
+        
+        while i< len(s) and s[i].isdigit():
             res=res*10+int(s[i])
+
+            if sign*res>2**31-1:
+                return 2**31-1
+            if sign*res<-2**31:
+                return -2**31
             i+=1
-        res=res*negative
-        if res<0:
-            return max(res, MIN_INT)
-        return min(res, MAX_INT)
+        return sign*res
+        
+
+       
+
+
         
