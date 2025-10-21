@@ -1,10 +1,17 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        @cache
-        def subsetsum(s,i):
-            if s==0:return True
-            if i>=len(nums) or s<0:return False
-            return subsetsum(s-nums[i],i+1) or subsetsum(s,i+1)
-        total_sum=sum(nums)
-        return total_sum &1==0 and subsetsum(total_sum//2,0)
-        
+        total=sum(nums)
+        if total%2==1:
+            return False
+
+        target=total//2
+
+        dp=[False]*(target+1)
+        dp[0]=True
+
+        for n in nums:
+            for i in range(len(dp)-1,n-1,-1):
+                if dp[i]:continue
+                if dp[i-n]:dp[i]=True
+                if dp[-1]:return True
+        return False
