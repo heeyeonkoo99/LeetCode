@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/heeyeonkoo99/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Math
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
 | ------- |
@@ -353,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/heeyeonkoo99/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/heeyeonkoo99/LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
 | ------- |
@@ -404,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
