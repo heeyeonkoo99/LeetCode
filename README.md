@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/heeyeonkoo99/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/heeyeonkoo99/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/heeyeonkoo99/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/heeyeonkoo99/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/heeyeonkoo99/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Hash Function
 |  |
