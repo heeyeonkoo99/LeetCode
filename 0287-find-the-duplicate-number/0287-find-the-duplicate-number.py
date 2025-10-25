@@ -1,9 +1,16 @@
 from collections import Counter
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        a=Counter(nums)
-        print(a)
-        for k,v in a.items():
-            if v!=1:
-                return k
-       
+        slow=nums[0]
+        fast=nums[0]
+
+        while True:
+            slow=nums[slow]
+            fast=nums[nums[fast]]
+            if slow==fast:
+                break
+        slow=nums[0]
+        while slow!=fast:
+            slow=nums[slow]
+            fast=nums[fast]
+        return slow
