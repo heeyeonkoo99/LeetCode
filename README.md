@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/heeyeonkoo99/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/heeyeonkoo99/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/heeyeonkoo99/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0056-merge-intervals) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/heeyeonkoo99/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/heeyeonkoo99/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/heeyeonkoo99/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/heeyeonkoo99/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/heeyeonkoo99/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/heeyeonkoo99/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/heeyeonkoo99/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/heeyeonkoo99/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/heeyeonkoo99/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0079-word-search) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/heeyeonkoo99/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/heeyeonkoo99/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/heeyeonkoo99/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0088-merge-sorted-array) |
