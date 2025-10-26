@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/heeyeonkoo99/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/heeyeonkoo99/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/heeyeonkoo99/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/heeyeonkoo99/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Linked List
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
