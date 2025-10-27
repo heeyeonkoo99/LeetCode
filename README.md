@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/heeyeonkoo99/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/heeyeonkoo99/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/heeyeonkoo99/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/heeyeonkoo99/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/heeyeonkoo99/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/heeyeonkoo99/LeetCode/tree/master/0070-climbing-stairs) |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/heeyeonkoo99/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/heeyeonkoo99/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/heeyeonkoo99/LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
