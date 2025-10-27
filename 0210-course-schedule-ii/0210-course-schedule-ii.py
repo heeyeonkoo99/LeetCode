@@ -1,26 +1,28 @@
+from collections import defaultdict
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        pre=[[] for _ in range(numCourses)]
-        nums=[0 for _ in range(numCourses)]
-        ans=[]
-        q=[]
-        for i in prerequisites:
-            pre[i[1]].append(i[0])
-            nums[i[0]]+=1
-        for i in range(len(nums)):
-            if nums[i]==0:
-                q.append(i)
-        while q:
-            value=q.pop()
-            ans.append(value)
-            for connect in pre[value]:
-                nums[connect]-=1
-                if nums[connect]==0:
-                    q.append(connect)
-        if len(ans)==numCourses:
-            return ans
-        return []
+        graph=defaultdict(list)
+        for dest,src in prerequisites:
+            graph[src].append(dest)
+        visited=[0]*numCourses
+        order=[]
 
+        def dfs(node):
+            if visited[node]==1:
+                return False
+            if visited[node]==2:
+                return True
+            visited[node]=1
+            for nei in graph[node]:
+                if not dfs(nei):
+                    return False
+            visited[node]=2
+            order.append(node)
+            return True
+        for i in range(numCourses):
+            if visited[i]==0 and not dfs(i):
+                return []
+        return order[::-1]
 
 
         
