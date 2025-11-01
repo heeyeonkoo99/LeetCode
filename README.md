@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/heeyeonkoo99/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/heeyeonkoo99/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/heeyeonkoo99/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
 ## Combinatorics
 |  |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/heeyeonkoo99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/heeyeonkoo99/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/heeyeonkoo99/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
