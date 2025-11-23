@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/heeyeonkoo99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/heeyeonkoo99/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/heeyeonkoo99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/heeyeonkoo99/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/heeyeonkoo99/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
