@@ -1,17 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        d={"}":"{",")":"(","]":"["}
         stack=[]
-        hi={"{":"}", "(":")","[":"]"}
+
         for i in s:
-            if i in hi:
-                stack.append(i)
-            else:
-                if not stack:
-                    return False
+            if i in d and stack:
+                if stack[-1]==d[i]:
+                    stack.pop()
                 else:
-                    if hi[stack.pop()]!=i:
-                        return False
-       
-        return len(stack)==0
+                    return False
+            else:
+                stack.append(i)
+        return len(stack)==0        
+
 
         
