@@ -8,4 +8,4 @@ class Solution:
                 if j[i]!=s:
                     return minstr[:i]
     
-        
+        return minstr
