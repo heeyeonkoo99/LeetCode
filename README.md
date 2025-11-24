@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/heeyeonkoo99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/heeyeonkoo99/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/heeyeonkoo99/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/heeyeonkoo99/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0227-basic-calculator-ii) |
