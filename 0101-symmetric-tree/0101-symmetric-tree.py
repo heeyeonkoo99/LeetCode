@@ -8,13 +8,11 @@ class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
-        def mirror(v1,v2):
-            if v1 is None and v2 is None:
+        def mirror(p,q):
+            if not p and not q:
                 return True
-            if v1 is None or v2 is None:
+            if not p or not q:
                 return False
-            return v1.val==v2.val and mirror(v1.left,v2.right) and mirror(v1.right,v2.left)
-
+            return p.val==q.val and mirror(p.left, q.right) and mirror(p.right, q.left)
         return mirror(root.left,root.right)
-
         
