@@ -12,14 +12,12 @@ class Solution:
         while curr.next:
             curr=curr.next
             length+=1
-
         curr.next=head
-
         k=k%length
-        steps_to_new_tail=length-k
+        steps_to_walk=length-k
 
         new_tail=head
-        for _ in range(steps_to_new_tail-1):
+        for _ in range(steps_to_walk-1):
             new_tail=new_tail.next
         new_head=new_tail.next
         new_tail.next=None
