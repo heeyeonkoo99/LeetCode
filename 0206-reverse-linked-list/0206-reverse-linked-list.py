@@ -8,11 +8,9 @@ class Solution:
         node=head
         prev=None
         while node:
-            next=node.next
-            node.next=prev
-            prev=node
-            node=next
-
+            next,node.next=node.next,prev
+            prev,node=node,next
+          
 
 
         return prev
