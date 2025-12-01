@@ -7,6 +7,7 @@ class Solution:
             if n-1 not in nums_set:
                 length=1
                 while n+length in nums_set:
-                    longest=max(longest, length)
+                    length+=1
+                longest=max(longest, length)
         return longest
                  
