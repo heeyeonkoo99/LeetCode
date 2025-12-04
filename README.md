@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/heeyeonkoo99/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/heeyeonkoo99/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/0525-contiguous-array) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/heeyeonkoo99/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/heeyeonkoo99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/heeyeonkoo99/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Hash Function
 |  |
@@ -589,4 +593,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/heeyeonkoo99/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
