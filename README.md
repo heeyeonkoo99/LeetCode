@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/heeyeonkoo99/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/heeyeonkoo99/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/heeyeonkoo99/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/heeyeonkoo99/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/heeyeonkoo99/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/heeyeonkoo99/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/heeyeonkoo99/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/heeyeonkoo99/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/heeyeonkoo99/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -605,4 +608,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/heeyeonkoo99/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
