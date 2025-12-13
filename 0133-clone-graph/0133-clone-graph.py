@@ -1,4 +1,3 @@
-from collections import deque
 """
 # Definition for a Node.
 class Node:
@@ -12,23 +11,15 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
-        
-        visited = {}  # 원본 노드 -> 새 노드
-        
+        visited={}
         def dfs(curr):
             if curr in visited:
                 return visited[curr]
-            
-            # 현재 노드 복사
-            copy = Node(curr.val)
-            visited[curr] = copy
-            
-            # neighbor 재귀적으로 처리
+            copy=Node(curr.val)
+            visited[curr]=copy
+
             for neighbor in curr.neighbors:
                 copy.neighbors.append(dfs(neighbor))
-            
             return copy
-        
         return dfs(node)
-        
         
