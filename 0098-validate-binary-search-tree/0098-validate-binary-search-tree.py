@@ -1,4 +1,3 @@
-from collections import deque
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -7,14 +6,16 @@ from collections import deque
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def check(root, low=float("-inf"), high=float("inf")):
+        
+        return self.check(root, float('-inf'),float('inf'))
+    def check(self,root, low,high):
             if not root:
                 return True
-            if not(low< root.val< high):
+            if not(low < root.val < high):
                 return False
-                
-            return check(root.left, low, root.val) and check(root.right,root.val, high)
-                
-        return check(root)
-        
+            return(
+                self.check(root.left,low,root.val)and
+                self.check(root.right, root.val, high)
+            )
+
         
