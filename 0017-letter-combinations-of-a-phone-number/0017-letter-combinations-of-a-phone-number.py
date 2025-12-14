@@ -6,7 +6,7 @@ class Solution:
             if len(curr)==len(digits):
                 res.append(curr)
                 return
-            for alpha in map[digits[i]]:
+            for alpha in map[int(digits[i])]:
                 dfs(i+1, curr+alpha)
         if digits:
             dfs(0,"")
