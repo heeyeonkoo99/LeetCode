@@ -3,14 +3,14 @@ class Solution:
         nums.sort()
         res=[]
         n=len(nums)
-
+        if nums[0]>0:
+            return []
         for i in range(n):
-            if nums[i]>0:
-                break
             if i>0 and nums[i]==nums[i-1]:
                 continue
             left,right=i+1,n-1
-            while left<right:
+            while left< right:
+                
                 total=nums[i]+nums[left]+nums[right]
                 if total<0:
                     left+=1
@@ -24,7 +24,10 @@ class Solution:
                         right-=1
                     left+=1
                     right-=1
+                    
         return res
-
+                
+                    
+       
 
         
