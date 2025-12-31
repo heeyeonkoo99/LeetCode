@@ -17,7 +17,6 @@ class Solution:
                 return visited[curr]
             copy=Node(curr.val)
             visited[curr]=copy
-
             for neighbor in curr.neighbors:
                 copy.neighbors.append(dfs(neighbor))
             return copy
