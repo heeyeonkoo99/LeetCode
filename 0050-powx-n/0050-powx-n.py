@@ -9,3 +9,6 @@ class Solution:
             return half*half
         else:
             return half*half*x
+
+
+        
