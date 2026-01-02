@@ -1,13 +1,13 @@
-from collections import deque
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         res=[]
-        def backtrack(start,current):
-            res.append(current[:])
+
+        def dfs(start,path):
+            res.append(path[:])
             for i in range(start, len(nums)):
-                current.append(nums[i])
-                backtrack(i+1,current )
-                current.pop()
-        backtrack(0,[])
-        return res
-        
+                path.append(nums[i])
+                dfs(i+1,path)
+                path.pop()
+        dfs(0,[])
+
+        return res        
