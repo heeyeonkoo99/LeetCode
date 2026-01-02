@@ -11,7 +11,6 @@ class Solution:
         for i in range(len(s)):
             l1,r1=expand(i,i)
             l2,r2=expand(i,i+1)
-
             if r1-l1>end-start:
                 start,end=l1,r1
             if r2-l2>end-start:
