@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/heeyeonkoo99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/heeyeonkoo99/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/heeyeonkoo99/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/heeyeonkoo99/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/heeyeonkoo99/LeetCode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Combinatorics
