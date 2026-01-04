@@ -5,8 +5,8 @@ class Solution:
 
         for i in range(len(prices)):
             minprice=min(minprice,prices[i])
-            profit=max(profit, prices[i]-minprice)
-
+            profit=max(profit,prices[i]-minprice)
         return profit
+
 
         
