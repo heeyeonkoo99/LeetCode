@@ -4,13 +4,10 @@ class Solution:
         maximum=0
         while l<r:
             a=min(height[l],height[r])*(r-l)
-            print(a)
             if height[l]<height[r]:
                 l+=1
             else:
                 r-=1
-            maximum=max(maximum, a)
-            print(maximum)
-        return maximum
+            maximum=max(maximum,a)
 
-        
+        return maximum
