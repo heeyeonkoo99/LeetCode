@@ -6,9 +6,13 @@ class Solution:
             (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')
         ]
         res=""
-        for val,rom in val_to_rom:
-            while num>=val:
-                res+=rom
-                num-=val
+        for i,v in val_to_rom:
+            if i>=num:
+                res+=v
+                num-=i
         return res
+        
+
+    
+
         
