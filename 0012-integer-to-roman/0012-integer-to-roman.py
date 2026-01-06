@@ -7,7 +7,7 @@ class Solution:
         ]
         res=""
         for i,v in val_to_rom:
-            if i>=num:
+            while num>=i:
                 res+=v
                 num-=i
         return res
