@@ -16,11 +16,12 @@ class Solution:
                     return False
             visited[i]=2
             order.append(i)
+            return True
         
         for i in range(numCourses):
             if visited[i]==0 and not dfs(i):
                 return[]
-        return order[::-1]
+        return order
 
 
         
