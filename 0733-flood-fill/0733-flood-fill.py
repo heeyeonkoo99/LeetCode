@@ -1,20 +1,20 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        visited=[[False for _ in range(len(image[0]))] for _ in range(len(image))]
-        stack=[(sr,sc)]
-        target_color=image[sr][sc]
-        dx=[0,0,1,-1]
-        dy=[1,-1,0,0]
+        m,n=len(image),len(image[0])
+        visited=[[False]*n for _ in range(m)]
+        directions=[[-1,0],[0,-1],[1,0],[0,1]]
 
-        while stack:
-            e=stack.pop()
-            x,y=e[0],e[1]
-            if visited[x][y]==False and image[x][y]==target_color:
-                image[x][y]=color
-                visited[x][y]=True
-                for i in range(4):
-                    # 당연히 범위안에 들어와야하니까 이 조건필수!
-                    if 0<=x+dx[i]<len(image) and 0<=y+dy[i]<len(image[0]):
-                        stack.append((x+dx[i],y+dy[i]))
+        if image[sr][sc]==color:
+            return image
+        temp=image[sr][sc]
+
+        def dfs(i,j):
+            visited[i][j]=True
+            for dx,dy in directions:
+                x,y= i+dx,j+dy
+                if 0<=x<m and 0<=y<n and visited[x][y]==False and image[x][y]==temp:
+                    image[x][y]=color
+                    dfs(x,y)
+        image[sr][sc]=color
+        dfs(sr,sc)
         return image
-        
