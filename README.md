@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/heeyeonkoo99/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/heeyeonkoo99/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/heeyeonkoo99/LeetCode/tree/master/0048-rotate-image) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/heeyeonkoo99/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/heeyeonkoo99/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/heeyeonkoo99/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/heeyeonkoo99/LeetCode/tree/master/0062-unique-paths) |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/heeyeonkoo99/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/heeyeonkoo99/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/heeyeonkoo99/LeetCode/tree/master/0134-gas-station) |
