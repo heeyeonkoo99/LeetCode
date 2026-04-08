@@ -16,15 +16,14 @@ class RandomizedSet:
         if val not in self.dict:
             return False
         idx=self.dict[val]
-
         last_element=self.list[-1]
-        self.list[idx]=last_element
         self.dict[last_element]=idx
+        self.list[idx]=last_element
 
         self.list.pop()
         del self.dict[val]
+
         return True
-        
 
     def getRandom(self) -> int:
         return random.choice(self.list)
