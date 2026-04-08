@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/heeyeonkoo99/LeetCode/tree/master/1036-rotting-oranges) |
+| [1929-concatenation-of-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/heeyeonkoo99/LeetCode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/heeyeonkoo99/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
