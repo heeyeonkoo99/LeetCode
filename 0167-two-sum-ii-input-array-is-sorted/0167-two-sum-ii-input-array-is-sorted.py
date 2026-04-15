@@ -1,13 +1,14 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        left,right=0,len(numbers)-1
+        d=defaultdict(int)
 
-        while left<right:
-            current_sum=numbers[left]+numbers[right]
-            if current_sum==target:
-                return [left+1, right+1]
-            elif current_sum<target:
-                left+=1
-            else:
-                right-=1
+
+        
+        for i,v in enumerate(numbers):
+            if target-v in d:
+                return [d[target-v], i+1]
+            d[v]+=i+1
+            
+
+
         
