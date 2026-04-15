@@ -1,6 +1,6 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        if numRows==1 or len(s)>=numRows:
+        if numRows==1 or numRows>=len(s):
             return s
 
         going_down=False
