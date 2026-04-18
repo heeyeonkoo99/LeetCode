@@ -1,21 +1,19 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
-        words=s.split()
-        if len(pattern)!=len(words):
+        map_p_s={}
+        map_s_p={}
+        s_group=s.split()
+        if len(pattern) != len(s_group):
             return False
-        char_to_word={}
-        word_to_char={}
         
-        for c,w in zip(pattern, words):
-            if c in char_to_word:
-                if char_to_word[c]!=w:
-                    return False
-            else:
-                char_to_word[c]=w
-            if w in word_to_char:
-                if word_to_char[w]!=c:
-                    return False
-            else:
-                word_to_char[w]=c
+        print(s)
+        for p,s in zip(pattern,s_group):
+            if p in map_p_s and map_p_s[p]!=s:
+                return False
+            if s in map_s_p and map_s_p[s]!=p:
+                return False
+            map_p_s[p]=s
+            map_s_p[s]=p
         return True
-            
+
+        
