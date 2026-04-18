@@ -1,21 +1,16 @@
 from collections import Counter
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        if len(s)!=len(t):
-            return False
-        s_to_t={}
-        t_to_s={}
+        map_s_t={}
+        map_t_s={}
 
-        for sc,tc in zip(s,t):
-            if sc in s_to_t:
-                if s_to_t[sc]!=tc:
-                    return False
-            else:
-                s_to_t[sc]=tc
-            if tc in t_to_s:
-                if t_to_s[tc] != sc:
-                    return False
-            else:
-                t_to_s[tc] = sc
-
+        for a,b in zip(s,t):
+            if a in map_s_t and map_s_t[a]!=b:
+                return False
+            if b in map_t_s and map_t_s[b]!=a:
+                return False
+            map_s_t[a]=b
+            map_t_s[b]=a
         return True
+        
+        
