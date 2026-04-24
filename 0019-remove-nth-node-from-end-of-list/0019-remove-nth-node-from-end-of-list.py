@@ -8,13 +8,14 @@ class Solution:
         dummy=ListNode(0)
         dummy.next=head
 
-        firstPtr=secondPtr=dummy
-
+        slow,fast=dummy,dummy
+        
         for _ in range(n):
-            firstPtr=firstPtr.next
-        while firstPtr and firstPtr.next:
-            firstPtr=firstPtr.next
-            secondPtr=secondPtr.next
-        secondPtr.next=secondPtr.next.next
+            fast=fast.next
+        
+        while fast and fast.next:
+            fast=fast.next
+            slow=slow.next
+        slow.next=slow.next.next
         return dummy.next
         
