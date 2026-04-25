@@ -22,4 +22,5 @@ class Solution:
             curr=curr.next
         after.next=None
         before.next=after_head.next
-        return before_head.next        
+        return before_head.next
+        
