@@ -11,11 +11,11 @@ class Solution:
         curr=head
         while curr.next:
             curr=curr.next
-            length+=1
+            length=1
         curr.next=head
         k=k%length
         steps_to_walk=length-k
-
+        
         new_tail=head
         for _ in range(steps_to_walk-1):
             new_tail=new_tail.next
