@@ -12,8 +12,6 @@ class Solution:
             if not left or not right:
                 return False
             if left.val==right.val:
-                return check(left.right, right.left) and check(right.right, left.left)
+                return check(left.right,right.left) and check(right.right,left.left) 
             return False
         return check(root.left,root.right)
-
-        
