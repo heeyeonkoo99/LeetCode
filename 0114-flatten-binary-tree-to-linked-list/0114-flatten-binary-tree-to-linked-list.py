@@ -6,14 +6,14 @@
 #         self.right = right
 class Solution:
     def __init__(self):
-        self.prev=None
-
+            self.prev=None
     def flatten(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
         """
+        
         if not root:
-            return
+            return 
         self.flatten(root.right)
         self.flatten(root.left)
 
@@ -21,3 +21,5 @@ class Solution:
         root.left=None
 
         self.prev=root
+        
+        
