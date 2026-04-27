@@ -11,24 +11,20 @@ class Solution:
             return []
         q=deque([root])
         res=[]
-        flag=False
+        flag=True
         while q:
-            size=len(q)
             temp=[]
-            for _ in range(size):
+            for _ in range(len(q)):
                 node=q.popleft()
                 temp.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            
-            if flag==True:
-                temp=temp[::-1]
-            res.append(temp)
             flag=not flag
+            if flag:
+                res.append(temp[::-1])
+            else:
+                res.append(temp)
+            
         return res
-                
-                    
-
-        
