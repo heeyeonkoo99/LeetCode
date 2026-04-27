@@ -1,3 +1,4 @@
+from collections import deque
 """
 # Definition for a Node.
 class Node:
@@ -11,7 +12,7 @@ from collections import deque
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
-            return root
+            return None
         q=deque([root])
         while q:
             size=len(q)
@@ -24,6 +25,5 @@ class Solution:
                 if node.right:
                     q.append(node.right)
         return root
-
 
         
