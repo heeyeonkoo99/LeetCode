@@ -10,9 +10,9 @@ class Solution:
         dir=[[0,1],[1,0],[-1,0],[0,-1]]
         def dfs(i,j):
             
-            if i<0 or i>=m or j<= or j>=n or board[i][j]!="O":
+            if i<0 or i>=m or j<0 or j>=n or board[i][j]!="O":
                 return
-            visied[i][j]=True
+            visited[i][j]=True
             board[i][j]="E"
             for dx,dy in dir:
                 dfs(i+dx,j+dy)
