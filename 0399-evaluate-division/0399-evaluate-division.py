@@ -5,14 +5,14 @@ class Solution:
             graph[A][B]=val
             graph[B][A]=1/val
         def dfs(start,end,visited):
-            if start not in visited or end not in visited:
+            if start not in graph or end not in graph:
                 return -1.0
             if start==end:
                 return 1.0
             visited.add(start)
 
             for neighbor,val in graph[start].items():
-                if neighbor in graph:
+                if neighbor in visited:
                     continue
                 temp=dfs(neighbor,end,visited)
                 if temp!=-1:
@@ -21,6 +21,6 @@ class Solution:
 
         res=[]
 
-        for C,D in equations:
+        for C,D in queries:
             res.append(dfs(C,D,set()))
         return res
