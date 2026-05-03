@@ -4,24 +4,27 @@ class Solution:
         for a,b in prerequisites:
             graph[a].append(b)
         visited=[0]*numCourses
-        order=[]
-        def dfs(i):
-            if visited[i]==1:
+        res=[]
+
+        def dfs(node):
+            if visited[node]==1:
                 return False
-            if visited[i]==2:
+            if visited[node]==2:
                 return True
-            visited[i]=1
-            for c in graph[i]:
-                if not dfs(c):
+            visited[node]=1
+            for a in graph[node]:
+                if not dfs(a):
                     return False
-            visited[i]=2
-            order.append(i)
-            return True
-        
+            res.append(node)
+            visited[node]=2
+            return True 
         for i in range(numCourses):
             if visited[i]==0 and not dfs(i):
-                return[]
-        return order
+                return []
 
+            
+
+
+        return res
 
         
