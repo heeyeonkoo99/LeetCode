@@ -1,6 +1,6 @@
 class Solution:
     def minMutation(self, start: str, end: str, bank: List[str]) -> int:
-        bank_set=set()
+        bank_set=set(bank)
         if end not in bank_set:
             return -1
         genes=['A','C','G','T']
