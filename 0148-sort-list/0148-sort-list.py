@@ -8,7 +8,7 @@ class Solution:
         if not head or not head.next:
             return head
         slow,fast=head,head.next
-        while fast and fast.next:
+        while fast  and fast.next:
             slow=slow.next
             fast=fast.next.next
         mid=slow.next
@@ -22,16 +22,13 @@ class Solution:
         tail=dummy
 
         while l1 and l2:
-            if l1.val< l2.val:
+            if l1.val<l2.val:
                 tail.next=l1
                 l1=l1.next
             else:
                 tail.next=l2
                 l2=l2.next
-            tail=tail.next
         tail.next=l1 if l1 else l2
-        
-
-
         return dummy.next
+
         
