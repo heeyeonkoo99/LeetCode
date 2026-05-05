@@ -1,6 +1,7 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         m,n=len(board),len(board[0])
+
         def dfs(i,j,idx):
             if idx==len(word):
                 return True
@@ -8,11 +9,10 @@ class Solution:
                 return False
             temp=board[i][j]
             board[i][j]="#"
-
-            found=(dfs(i-1,j,idx+1) or
-                    dfs(i,j-1,idx+1) or 
-                    dfs(i+1,j,idx+1) or
-                    dfs(i,j+1,idx+1))
+            found=(dfs(i,j+1,idx+1) or 
+            dfs(i+1,j,idx+1) or
+            dfs(i-1,j,idx+1) or
+            dfs(i,j-1,idx+1) )
             board[i][j]=temp
             if found:
                 return True
@@ -21,4 +21,4 @@ class Solution:
             for j in range(n):
                 if dfs(i,j,0):
                     return True
-        return False        
+        return False
