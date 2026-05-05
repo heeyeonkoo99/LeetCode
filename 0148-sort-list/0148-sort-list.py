@@ -28,6 +28,7 @@ class Solution:
             else:
                 tail.next=l2
                 l2=l2.next
+            tail=tail.next
         tail.next=l1 if l1 else l2
         return dummy.next
 
