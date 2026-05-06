@@ -1,16 +1,25 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        res=[]
+        def binary(nums,target,is_left):
+            idx=-1
+            l,r=0,len(nums)-1
 
-        l,r=0,len(nums)-1
+            while l<=r:
+                mid=(l+r)//2
+                if nums[mid]>target:
+                    r=mid-1
+                elif nums[mid]<target:
+                    l=mid+1
+                else:
+                    idx=mid
+                    if is_left:
+                        r=mid-1
+                    else:
+                        l=mid+1
+            return idx
+            
+        l=binary(nums,target,True)
+        r=binary(nums,target,False)
 
-        while l<=r:
-            mid=(l+r)//2
-            if nums[mid]==target:
-                res.append(mid)
-            elif nums[mid]<target:
-                l=mid+1
-            else:
-                r=mid-1
-        return res
+        return [l,r]
         
