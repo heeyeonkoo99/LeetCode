@@ -7,7 +7,7 @@ class Solution:
 
             if nums[mid]==target:
                 return mid
-            elif nums[l]<nums[mid]:
+            elif nums[l]<=nums[mid]:
                 if nums[l]<=target<nums[mid]:
                     r=mid-1
                 else:
