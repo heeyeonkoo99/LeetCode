@@ -3,8 +3,8 @@ class Solution:
         current_sum=nums[0]
         max_sum=nums[0]
 
-        for i in nums[1:]:
-            current_sum=max(i, i+current_sum)
+        for n in nums[1:]:
+            current_sum=max(current_sum+n,n)
             max_sum=max(max_sum,current_sum)
         return max_sum
 
