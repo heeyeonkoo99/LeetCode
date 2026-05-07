@@ -1,20 +1,18 @@
 class Solution:
     def maxSubarraySumCircular(self, nums: List[int]) -> int:
-        total=0
-        cur_max=0
-        max_sum=nums[0]
-        cur_min=0
-        min_sum=nums[0]
+        total=nums[0]
+        current_max=nums[0]
+        max_sum=current_max
+        current_min=nums[0]
+        min_sum=current_min
 
-        for x in nums:
-            total+=x
+        for i in nums[1:]:
+            total+=i
+            current_max=max(i,current_max+i)
+            max_sum=max(current_max,max_sum)
 
-            cur_max=max(x,cur_max+x)
-            max_sum=max(cur_max,max_sum)
-
-            cur_min=min(x,cur_min+x)
-            min_sum=min(cur_min,min_sum) 
-
+            current_min=min(i,current_min+i)
+            min_sum=min(current_min,min_sum)
         if max_sum<0:
             return max_sum
-        return max(total-min_sum, max_sum)
+        return max(total-min_sum,max_sum)
