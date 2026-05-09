@@ -1,7 +1,10 @@
 from collections import Counter
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        a=Counter(nums)
-        for i,v in a.items():
-            if v==1:
-                return i
+        ones=0
+        twos=0
+
+        for n in nums:
+            ones=(ones^n)&~twos
+            twos=(twos^n)&~ones
+        return ones
