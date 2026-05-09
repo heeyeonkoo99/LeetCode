@@ -6,3 +6,5 @@ class Solution:
                 return digits
             digits[i]=0
         return [1]+digits
+
+        
