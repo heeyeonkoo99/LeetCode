@@ -5,7 +5,7 @@ class Solution:
         start,end=0,0
 
         def expand(l,r):
-            if l>=0 and r<len(s) and s[l]==s[r]:
+            while l>=0 and r<len(s) and s[l]==s[r]:
                 l-=1
                 r+=1
             return l+1,r-1
