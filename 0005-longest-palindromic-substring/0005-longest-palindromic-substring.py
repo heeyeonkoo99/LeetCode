@@ -3,8 +3,9 @@ class Solution:
         if not s:
             return ""
         start,end=0,0
+
         def expand(l,r):
-            while l>=0 and r<len(s) and s[l]==s[r]:
+            if l>=0 and r<len(s) and s[l]==s[r]:
                 l-=1
                 r+=1
             return l+1,r-1
@@ -16,5 +17,7 @@ class Solution:
             if r2-l2>end-start:
                 start,end=l2,r2
         return s[start:end+1]
-            
+
+
+
         
