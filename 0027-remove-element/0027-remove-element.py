@@ -3,7 +3,8 @@ class Solution:
         k=0
 
         for i in range(len(nums)):
-            if nums[i]!=val:
-                nums[i],nums[k]=nums[k],nums[i]
+            if nums[k]!=val:
+                nums[k],nums[i]=nums[i],nums[k]
                 k+=1
+
         return k
