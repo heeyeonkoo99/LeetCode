@@ -8,8 +8,8 @@ class Solution:
 
         res = ""
         for val,rom in val_to_rom:
-            while val>=num:
-                res+=val
+            while num>=val:
+                res+=rom
                 num-=val
         return res
         
