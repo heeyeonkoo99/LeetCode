@@ -7,11 +7,12 @@ class Solution:
         for i in range(len(gas)):
             diff=gas[i]-cost[i]
             total_sum+=diff
-            current_sum=diff
+            current_sum+=diff
             if current_sum<0:
                 start=i+1
                 current_sum=0
-                total_sum-=diff
+          
+       
         return start if total_sum>=0 else -1
 
 
