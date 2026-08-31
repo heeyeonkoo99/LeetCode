@@ -7,10 +7,9 @@ class Solution:
         ]
 
         res = ""
-
-        for val, rom in val_to_rom:
-            while num >= val:
-                res += rom
-                num -= val
-
+        for val,rom in val_to_rom:
+            while val>=num:
+                res+=val
+                num-=val
         return res
+        
