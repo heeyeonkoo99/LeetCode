@@ -3,7 +3,7 @@ class Solution:
         d={}
         for i,v in enumerate(nums):
             if target-v in d:
-                return [d[target-v], i]
+                return [d[target-v],i]
             d[v]=i
-         
+        
         
