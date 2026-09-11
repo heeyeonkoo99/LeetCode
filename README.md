@@ -809,4 +809,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/heeyeonkoo99/LeetCode/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/heeyeonkoo99/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
