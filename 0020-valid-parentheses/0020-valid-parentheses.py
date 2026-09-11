@@ -1,7 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        d={"}":"{","]":"[",")":"("}
-
+        d={"]":"[","}":"{",")":"("}
         stack=[]
 
         for i in s:
@@ -11,7 +10,6 @@ class Solution:
                 else:
                     return False
             else:
+        
                 stack.append(i)
         return len(stack)==0
-            
-        
