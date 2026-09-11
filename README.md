@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/heeyeonkoo99/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/heeyeonkoo99/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Trie
 |  |
 | ------- |
