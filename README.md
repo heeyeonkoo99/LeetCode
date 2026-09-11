@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/heeyeonkoo99/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1908-recyclable-and-low-fat-products](https://github.com/heeyeonkoo99/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Memoization
 |  |
