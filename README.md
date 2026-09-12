@@ -525,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/heeyeonkoo99/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/heeyeonkoo99/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/heeyeonkoo99/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/heeyeonkoo99/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/heeyeonkoo99/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/heeyeonkoo99/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1908-recyclable-and-low-fat-products](https://github.com/heeyeonkoo99/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
