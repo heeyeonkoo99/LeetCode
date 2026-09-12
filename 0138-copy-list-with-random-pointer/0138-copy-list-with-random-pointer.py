@@ -23,4 +23,3 @@ class Solution:
             old_to_new[current].random=old_to_new.get(current.random)
             current=current.next
         return old_to_new[head]
-        
