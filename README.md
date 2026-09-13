@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/heeyeonkoo99/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/heeyeonkoo99/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/heeyeonkoo99/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/heeyeonkoo99/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/heeyeonkoo99/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/heeyeonkoo99/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
