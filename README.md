@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/heeyeonkoo99/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/heeyeonkoo99/LeetCode/tree/master/1036-rotting-oranges) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/heeyeonkoo99/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
