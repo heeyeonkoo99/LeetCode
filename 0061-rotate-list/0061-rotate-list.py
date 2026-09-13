@@ -8,7 +8,7 @@ class Solution:
         if not head or not head.next or k==0:
             return head
         curr=head
-        length=0
+        length=1
         while curr.next:
             curr=curr.next
             length+=1
@@ -17,7 +17,7 @@ class Solution:
         steps_to_walk=length-k
 
         new_tail=head
-        for _ in range(steps_to_walk):
+        for _ in range(steps_to_walk-1):
             new_tail=new_tail.next
         new_head=new_tail.next
         new_tail.next=None
