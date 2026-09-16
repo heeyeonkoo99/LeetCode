@@ -14,10 +14,10 @@ class Solution:
             return None
         q=deque([root])
         while q:
-            node=q.popleft()
             size=len(q)
             for i in range(size):
-                if i<size:
+                node=q.popleft()
+                if i<size-1:
                     node.next=q[0]
                 if node.left:
                     q.append(node.left)
