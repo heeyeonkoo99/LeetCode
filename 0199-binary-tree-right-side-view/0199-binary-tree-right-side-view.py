@@ -6,12 +6,12 @@
 #         self.right = right
 from collections import deque
 class Solution:
-    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+    def rightSideView(self, root: TreeNode | None) -> list[int]:
         res=[]
         q=deque([root])
         if not root:
             return []
-        while q: 
+        while q:
             size=len(q)
             for i in range(size):
                 node=q.popleft()
@@ -21,9 +21,6 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-
-
-
 
         return res
         
