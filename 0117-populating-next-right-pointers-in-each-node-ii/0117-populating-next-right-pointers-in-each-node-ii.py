@@ -1,4 +1,3 @@
-from collections import deque
 """
 # Definition for a Node.
 class Node:
@@ -15,15 +14,13 @@ class Solution:
             return None
         q=deque([root])
         while q:
+            node=q.popleft()
             size=len(q)
             for i in range(size):
-                node=q.popleft()
-                if i<size-1:
+                if i<size:
                     node.next=q[0]
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
         return root
-
-        
