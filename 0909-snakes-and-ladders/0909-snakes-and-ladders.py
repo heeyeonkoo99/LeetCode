@@ -1,5 +1,5 @@
 class Solution:
-    def snakesAndLadders(self, board: List[List[int]]) -> int:
+    def snakesAndLadders(self, board: list[list[int]]) -> int:
         n=len(board)
         def get_value(s):
             quot,rem=divmod(s-1,n)
@@ -7,9 +7,8 @@ class Solution:
             col=rem if (n-1-row)%2==0 else n-1-rem
             return board[row][col]
         visited=set()
-        queue=deque([(1,0)])
+        queue = deque([(1, 0)])
         visited.add(1)
-
         while queue:
             pos,moves=queue.popleft()
             if pos==n*n:
@@ -23,6 +22,9 @@ class Solution:
                     next_pos=val
                 if next_pos not in visited:
                     visited.add(next_pos)
-                    queue.append((next_pos,moves+1))
+                    queue.append([next_pos,moves+1])
         return -1
+
+
+
         
