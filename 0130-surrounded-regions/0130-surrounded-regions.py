@@ -27,10 +27,10 @@ class Solution:
             dfs(m-1,j)
         for i in range(m):
             for j in range(n):
-                if not visited[i][j]:
-                    if board[i][j]=="E":
-                        board[i][j]="O"
-                    if board[i][j]=="O":
-                        board[i][j]="X"
+              
+                if board[i][j]=="E":
+                    board[i][j]="O"
+                elif board[i][j]=="O":
+                    board[i][j]="X"
                     
         
