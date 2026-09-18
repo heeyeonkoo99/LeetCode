@@ -1,5 +1,5 @@
 class Solution:
-    def solve(self, board: List[List[str]]) -> None:
+    def solve(self, board: list[list[str]]) -> None:
         """
         Do not return anything, modify board in-place instead.
         """
@@ -7,15 +7,18 @@ class Solution:
             return 0
         m,n=len(board),len(board[0])
         visited=[[False]*n for _ in range(m)]
-        dir=[[0,1],[1,0],[-1,0],[0,-1]]
+        dirs=[[-1,0],[0,-1],[1,0],[0,1]]
         def dfs(i,j):
-            
-            if i<0 or i>=m or j<0 or j>=n or board[i][j]!="O":
+            if i<0 or i>=m or j<0 or j>=n:
+                return
+            if visited[i][j]:
                 return
             visited[i][j]=True
+            
             board[i][j]="E"
-            for dx,dy in dir:
+            for dx,dy in dirs:
                 dfs(i+dx,j+dy)
+            return
         for i in range(m):
             dfs(i,0)
             dfs(i,n-1)
@@ -24,12 +27,10 @@ class Solution:
             dfs(m-1,j)
         for i in range(m):
             for j in range(n):
-                if board[i][j]=="O":
-                    board[i][j]="X"
-                if board[i][j]=="E":
-                    board[i][j]="O"
-
-
-
-
+                if not visited[i][j]:
+                    if board[i][j]=="E":
+                        board[i][j]="O"
+                    if board[i][j]=="O":
+                        board[i][j]="X"
+                    
         
