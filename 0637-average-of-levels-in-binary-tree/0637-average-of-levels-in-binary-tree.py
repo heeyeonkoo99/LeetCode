@@ -6,14 +6,15 @@
 #         self.right = right
 from collections import deque
 class Solution:
-    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+    def averageOfLevels(self, root: TreeNode | None) -> list[float]:
         if not root:
             return []
         q=deque([root])
         res=[]
         while q:
+            size=len(q)
             temp=[]
-            for i in range(len(q)):
+            for i in range(size):
                 node=q.popleft()
                 temp.append(node.val)
                 if node.left:
@@ -21,6 +22,4 @@ class Solution:
                 if node.right:
                     q.append(node.right)
             res.append(sum(temp)/len(temp))
-
-
         return res
