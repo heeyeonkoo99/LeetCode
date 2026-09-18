@@ -6,14 +6,16 @@
 #         self.right = right
 from collections import deque
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
         if not root:
             return []
+
         q=deque([root])
         res=[]
         while q:
+            size=len(q)
             temp=[]
-            for i in range(len(q)):
+            for i in range(size):
                 node=q.popleft()
                 temp.append(node.val)
                 if node.left:
@@ -21,4 +23,5 @@ class Solution:
                 if node.right:
                     q.append(node.right)
             res.append(temp)
+
         return res
