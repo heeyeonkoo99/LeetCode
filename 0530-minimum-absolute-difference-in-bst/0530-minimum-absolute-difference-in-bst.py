@@ -15,5 +15,5 @@ class Solution:
             res.append(node.val)
             inorder(node.right)
         inorder(root)
-        return min(values[i+1]-values[i] for i in range(len(res)-1))
+        return min(values[i+1]-values[i] for i in range(len(res)-1)))
         
