@@ -1,8 +1,8 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
+    def searchRange(self, nums: list[int], target: int) -> list[int]:
         def binary(nums,target,is_left):
-            idx=-1
             l,r=0,len(nums)-1
+            idx=-1
 
             while l<=r:
                 mid=(l+r)//2
@@ -17,9 +17,8 @@ class Solution:
                     else:
                         l=mid+1
             return idx
-            
         l=binary(nums,target,True)
         r=binary(nums,target,False)
-
         return [l,r]
-        
+
+        return [-1,-1]
