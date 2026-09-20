@@ -7,7 +7,7 @@
 class Solution:
     def sortedArrayToBST(self, nums: list[int]) -> TreeNode | None:
         if not nums:
-            return []
+            return None
         mid=len(nums)//2
         node=TreeNode(mid)
         node.left=self.sortedArrayToBST(nums[:mid])
