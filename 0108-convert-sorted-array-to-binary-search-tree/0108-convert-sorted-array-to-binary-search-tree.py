@@ -9,8 +9,9 @@ class Solution:
         if not nums:
             return []
         mid=len(nums)//2
-        left=self.sortedArrayToBST(nums[:mid])
-        right=self.sortedArrayToBST(nums[mid+1:])
-        return left+mid+right
+        node=TreeNode(mid)
+        node.left=self.sortedArrayToBST(nums[:mid])
+        node.right=self.sortedArrayToBST(nums[mid+1:])
+        return node
 
         
