@@ -1,4 +1,8 @@
 class Solution:
-    def isPalindrome(self, s: int) -> bool:
-        return str(s)==str(s)[::-1]
+    def isPalindrome(self, x: int) -> bool:
+        if str(x)==str(x)[::-1]:
+            return True
+        return False
+
+
         
