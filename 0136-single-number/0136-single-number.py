@@ -1,7 +1,7 @@
 from collections import Counter
 class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
+    def singleNumber(self, nums: list[int]) -> int:
         a=Counter(nums)
-        for i,v in a.items():
-            if v==1:
+        for i in a:
+            if a[i]==2:
                 return i
