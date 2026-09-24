@@ -1,4 +1,4 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
        a=format(n,"032b")
-       return str(int(a,2))[::-1]
+       return int(a[::-1],2)
