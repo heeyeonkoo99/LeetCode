@@ -1,8 +1,8 @@
 class Solution:
     def trailingZeroes(self, n: int) -> int:
-        res=0
+        cnt=0
 
-        while n>0:
+        while n!=0:
             n//=5
-            res+=n
-        return res
+            cnt+=n
+        return cnt
