@@ -863,4 +863,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/heeyeonkoo99/LeetCode/tree/master/0069-sqrtx) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
