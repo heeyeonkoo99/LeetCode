@@ -879,4 +879,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/heeyeonkoo99/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
