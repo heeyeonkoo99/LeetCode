@@ -3,7 +3,7 @@ class Solution:
         if len(s1)+len(s2)!=len(s3):
             return False
         m,n=len(s1),len(s2)
-        dp=[[False]*n for _ in range(m)]
+        dp=[[False]*(n+1) for _ in range(m+1)]
         dp[0][0]=True
 
         for i in range(1,m+1):
