@@ -8,9 +8,9 @@ class Solution:
             if mid*mid==x:
                 return mid
             elif mid*mid<x:
-                l+=1
+                l=mid+1
             else:
-                r-=1
+                r=mid-1
         return r
 
         
