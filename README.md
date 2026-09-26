@@ -859,4 +859,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/heeyeonkoo99/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/heeyeonkoo99/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
