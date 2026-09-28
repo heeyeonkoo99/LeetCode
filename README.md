@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/heeyeonkoo99/LeetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/heeyeonkoo99/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/heeyeonkoo99/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0249-group-shifted-strings](https://github.com/heeyeonkoo99/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/heeyeonkoo99/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/heeyeonkoo99/LeetCode/tree/master/0283-move-zeroes) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/heeyeonkoo99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
+| [0249-group-shifted-strings](https://github.com/heeyeonkoo99/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/heeyeonkoo99/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/heeyeonkoo99/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/heeyeonkoo99/LeetCode/tree/master/0242-valid-anagram) |
+| [0249-group-shifted-strings](https://github.com/heeyeonkoo99/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0290-word-pattern](https://github.com/heeyeonkoo99/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/heeyeonkoo99/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0392-is-subsequence) |
