@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/heeyeonkoo99/LeetCode/tree/master/1036-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/heeyeonkoo99/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/heeyeonkoo99/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [3875-construct-uniform-parity-array-i](https://github.com/heeyeonkoo99/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
