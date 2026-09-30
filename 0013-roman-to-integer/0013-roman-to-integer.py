@@ -6,11 +6,13 @@ class Solution:
         ans=0
         i=0
 
-        while i<len(s):
-            if s[i:i+2] in d:
+        while i!=len(s):
+            if i<=len(s)-2 and s[i:i+2] in d:
                 ans+=d[s[i:i+2]]
                 i+=2
-            elif s[i] in d:
+            else:
                 ans+=d[s[i]]
                 i+=1
         return ans
+
+        
