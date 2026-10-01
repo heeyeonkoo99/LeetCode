@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/heeyeonkoo99/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/heeyeonkoo99/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/heeyeonkoo99/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/heeyeonkoo99/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/heeyeonkoo99/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/heeyeonkoo99/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/heeyeonkoo99/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/heeyeonkoo99/LeetCode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/heeyeonkoo99/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/heeyeonkoo99/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-time-based-key-value-store](https://github.com/heeyeonkoo99/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Tree
