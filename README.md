@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/heeyeonkoo99/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/heeyeonkoo99/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/heeyeonkoo99/LeetCode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/heeyeonkoo99/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/heeyeonkoo99/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/heeyeonkoo99/LeetCode/tree/master/0416-partition-equal-subset-sum) |
