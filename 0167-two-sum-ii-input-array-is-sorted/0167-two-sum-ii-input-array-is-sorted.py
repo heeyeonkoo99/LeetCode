@@ -6,3 +6,4 @@ class Solution:
             if target-v in d:
                 return [d[target-v],i+1]
             d[v]=i+1
+       
