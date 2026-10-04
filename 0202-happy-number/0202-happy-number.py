@@ -11,7 +11,5 @@ class Solution:
         while n not in seen and n!=1:
             seen.add(n)
             n=next_num(n)
-            
         return n==1
-
         
