@@ -8,10 +8,11 @@ class Solution:
 
         res=""
 
-        for i,v in val_to_rom:
-            while num>=i:
-                num-=i
-                res+=v
+        while num!=0:
+            for val,rom in val_to_rom:
+                while num>=val:
+                    num-=val
+                    res+=rom 
         return res
 
 
