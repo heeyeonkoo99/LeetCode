@@ -10,7 +10,7 @@ class Solution:
             if i<=len(s)-2 and s[i:i+2] in d:
                 ans+=d[s[i:i+2]]
                 i+=2
-            else:
+            elif s[i] in d:
                 ans+=d[s[i]]
                 i+=1
         return ans
