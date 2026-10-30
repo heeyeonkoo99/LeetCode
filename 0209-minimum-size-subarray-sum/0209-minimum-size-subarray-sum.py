@@ -3,7 +3,7 @@ class Solution:
         left=0
         curr=0
         length=float('inf')
-        for right in range(1,len(nums)):
+        for right in range(len(nums)):
             curr+=nums[right]
             while curr>=target:
                 length=min(length,right-left+1)
