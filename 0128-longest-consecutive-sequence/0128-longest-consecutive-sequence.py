@@ -4,13 +4,13 @@ class Solution:
         longest=0
 
 
-        for n in nums:
+        for n in seen:
             if n-1 not in seen:
-                length=0
-                while n+length not in seen:
-                    seen.add(n+length)
+                length=1
+                while n+length  in seen:
+                    
                     length+=1
-            longest=max(longest,length)
-            seen.add(n)
+                longest=max(longest,length)
+           
         return longest
         
