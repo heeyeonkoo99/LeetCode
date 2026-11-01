@@ -3,11 +3,14 @@ class Solution:
         seen=set(nums)
         longest=0
 
-        for n in seen:
+
+        for n in nums:
             if n-1 not in seen:
-                length=1
-                while n+length in seen:
+                length=0
+                while n+length not in seen:
+                    seen.add(n+length)
                     length+=1
-                longest=max(longest,length)
+            longest=max(longest,length)
+            seen.add(n)
         return longest
         
