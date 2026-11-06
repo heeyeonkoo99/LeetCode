@@ -8,8 +8,8 @@ class Solution:
         before_head=ListNode(0)
         after_head=ListNode(0)
 
-        before=before_head
-        after=after_head
+        before,after=before_head,after_head
+
         curr=head
 
         while curr:
