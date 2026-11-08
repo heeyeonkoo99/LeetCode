@@ -7,7 +7,7 @@ class Node:
         self.right = right
         self.next = next
 """
-from collections import deque
+
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
@@ -23,4 +23,7 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
+        
+
         return root
+        
