@@ -8,14 +8,15 @@ class Solution:
     def countNodes(self, root: TreeNode | None) -> int:
         if not root:
             return 0
+        left=root.left
         left_h=0
+        right=root.right
         right_h=0
-        l,r=root,root
-        while l:
-            l=l.left
+        while left:
+            left=left.left
             left_h+=1
-        while r:
-            r=r.right
+        while right:
+            right=right.right
             right_h+=1
         if left_h==right_h:
             return (1<<left_h)-1
