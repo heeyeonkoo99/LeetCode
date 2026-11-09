@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
 class Solution:
     def averageOfLevels(self, root: TreeNode | None) -> list[float]:
         if not root:
@@ -13,13 +12,13 @@ class Solution:
         res=[]
         while q:
             size=len(q)
-            temp=[]
+            temp=0
             for i in range(size):
                 node=q.popleft()
-                temp.append(node.val)
+                temp+=node.val
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            res.append(sum(temp)/len(temp))
+            res.append(temp/size)    
         return res
