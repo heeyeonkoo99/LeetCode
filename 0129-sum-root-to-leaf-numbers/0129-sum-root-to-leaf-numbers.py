@@ -9,7 +9,7 @@ class Solution:
         res=[]
         def dfs(node,path):
             if not node:
-                return 0
+                return
             path=10*path+node.val
             if not node.left and node.right:
                 res.append(path)
