@@ -16,4 +16,3 @@ class Solution:
             inorder(node.right)
         inorder(root)
         return min(res[i+1]-res[i] for i in range(len(res)-1))
-        
