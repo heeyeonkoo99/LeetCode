@@ -11,11 +11,10 @@ class Solution:
             if not node:
                 return
             path=10*path+node.val
-            if not node.left and node.right:
+            if not node.left and not node.right:
                 res.append(path)
                 return
             dfs(node.right,path)
             dfs(node.left,path)
-            
         dfs(root,0)
         return sum(res) 
