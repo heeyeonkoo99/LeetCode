@@ -16,6 +16,6 @@ class Solution:
                 return
             dfs(node.left,path)
             dfs(node.right,path)
-        return dfs(root,0)
-
+        dfs(root,0)
+        return sum(res)
         
