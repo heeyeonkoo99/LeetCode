@@ -8,9 +8,9 @@ class Solution:
     def countNodes(self, root: TreeNode | None) -> int:
         if not root:
             return 0
-        left=root.left
+        left=root
         left_h=0
-        right=root.right
+        right=root
         right_h=0
         while left:
             left=left.left
