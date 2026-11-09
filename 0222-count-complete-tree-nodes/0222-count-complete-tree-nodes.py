@@ -18,7 +18,7 @@ class Solution:
         while right:
             right=right.right
             right_h+=1
-        if left==right:
+        if left_h==right_h:
             return (1<<left_h)-1
         return 1+self.countNodes(root.left)+self.countNodes(root.right)
         
