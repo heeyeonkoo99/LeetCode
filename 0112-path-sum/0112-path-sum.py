@@ -7,11 +7,9 @@
 class Solution:
     def hasPathSum(self, root: TreeNode | None, targetSum: int) -> bool:
         if not root:
-            return False
+            return True
         if not root.left and not root.right:
-            return root.val==targetSum
-        left= self.hasPathSum(root.left, targetSum-root.val)
-        right= self.hasPathSum(root.right, targetSum-root.val)
-
-        
+            return targetSum==root.val
+        left=self.hasPathSum(root.left,targetSum-root.val)
+        right=self.hasPathSum(root.right,targetSum-root.val)
         return left or right
