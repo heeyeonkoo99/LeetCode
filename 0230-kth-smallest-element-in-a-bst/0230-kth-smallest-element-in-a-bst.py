@@ -9,11 +9,10 @@ class Solution:
         res=[]
         def inorder(node):
             if not node:
-                return None
+                return 
             inorder(node.left)
             res.append(node.val)
             inorder(node.right)
         inorder(root)
-        print(res)
         return res[k-1]
         
