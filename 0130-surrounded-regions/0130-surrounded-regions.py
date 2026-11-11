@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
         if not board or not board[0]:
-            return
+            return 0
         m,n=len(board),len(board[0])
         visited=[[False]*n for _ in range(m)]
         dirs=[[-1,0],[0,-1],[1,0],[0,1]]
@@ -13,8 +13,7 @@ class Solution:
                 return
          
               
-            if board[i][j]=="O":
-                board[i][j]="E"
+            board[i][j]="E"
             
             visited[i][j]=True
             for dx,dy in dirs:
@@ -31,7 +30,7 @@ class Solution:
                 
                 if board[i][j]=="E":
                     board[i][j]="O"
-                if board[i][j]=="O":
+                elif board[i][j]=="O":
                     board[i][j]="X"
                 
 
