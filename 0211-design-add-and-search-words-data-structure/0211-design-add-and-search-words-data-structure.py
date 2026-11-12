@@ -2,7 +2,6 @@ class TrieNode:
     def __init__(self):
         self.children={}
         self.is_end=False
-
 class WordDictionary:
 
     def __init__(self):
@@ -31,7 +30,6 @@ class WordDictionary:
                     return False
                 return dfs(node.children[word[i]],i+1)
         return dfs(self.root,0)
-        
 
 
 # Your WordDictionary object will be instantiated and called as such:
