@@ -5,11 +5,12 @@ class Solution:
             if len(path)==k:
                 res.append(path[:])
                 return
-            for i in range(start, n+1):
+            for i in range(start,n+1):
                 path.append(i)
-                dfs(i,path)
+                dfs(i+1,path)
                 path.pop()
+
         dfs(1,[])
-        return res
+        return res 
 
         
