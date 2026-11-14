@@ -6,7 +6,7 @@
 class Solution:
     def sortList(self, head: ListNode | None) -> ListNode | None:
         if not head or not head.next:
-            return None
+            return head
         slow,fast=head,head.next
         while fast and fast.next:
             slow=slow.next
