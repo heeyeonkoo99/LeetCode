@@ -8,12 +8,12 @@ class Solution:
             if nums[mid]==target:
                 return mid
             elif nums[l]<=nums[mid]:
-                if nums[l]<=nums[target]<=nums[mid]:
+                if nums[l]<=target<=nums[mid]:
                     r=mid-1
                 else:
                     l=mid+1
             else:
-                if nums[mid]<nums[target]<=nums[r]:
+                if nums[mid]<target<=nums[r]:
                     l=mid+1
                 else:
                     r=mid-1
