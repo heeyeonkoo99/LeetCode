@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/heeyeonkoo99/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/heeyeonkoo99/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/heeyeonkoo99/LeetCode/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/heeyeonkoo99/LeetCode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/heeyeonkoo99/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
