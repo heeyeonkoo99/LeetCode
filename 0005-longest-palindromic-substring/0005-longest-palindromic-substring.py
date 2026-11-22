@@ -10,10 +10,10 @@ class Solution:
         start,end=0,0
         for i in range(len(s)):
             s1,e1=expand(i,i)
-            if e1-s1<end-start:
+            if e1-s1>end-start:
                 start,end=s1,e1
             s2,e2=expand(i,i+1)
-            if e2-s2<end-start:
+            if e2-s2>end-start:
                 start,end=s2,e2
         return s[start:end+1]
             
