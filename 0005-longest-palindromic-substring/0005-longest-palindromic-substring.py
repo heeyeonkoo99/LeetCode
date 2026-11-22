@@ -3,17 +3,17 @@ class Solution:
         if not s:
             return ""
         def expand(l,r):
-            while l>=0 and r<len(s) and s[l]==s[r]:
+            while l<=r and s[l]==s[r]:
                 l-=1
                 r+=1
             return l+1,r-1
         start,end=0,0
-        for i in range(len(s)):
-            l1,r1=expand(i,i)
-            l2,r2=expand(i,i+1)
-            if r1-l1>end-start:
-                start,end=l1,r1
-            if r2-l2>end-start:
-                start,end=l2,r2
+        for i in range(len(s)-1):
+            s1,e1=expand(i,i)
+            if e1-s1<end-start:
+                start,end=s1,e1
+            s2,e2=expand(i,i+1)
+            if e2-s2<end-start:
+                start,end=s2,e2
         return s[start:end+1]
-        
+            
