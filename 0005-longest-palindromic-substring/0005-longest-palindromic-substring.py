@@ -8,7 +8,7 @@ class Solution:
                 r+=1
             return l+1,r-1
         start,end=0,0
-        for i in range(len(s)):
+        for i in range(len(s)-1):
             s1,e1=expand(i,i)
             if e1-s1>end-start:
                 start,end=s1,e1
