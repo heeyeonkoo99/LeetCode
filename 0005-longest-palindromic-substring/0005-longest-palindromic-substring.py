@@ -3,7 +3,7 @@ class Solution:
         if not s:
             return ""
         def expand(l,r):
-            while l<=r and s[l]==s[r]:
+            while l>=0 and r<len(s) and s[l]==s[r]:
                 l-=1
                 r+=1
             return l+1,r-1
